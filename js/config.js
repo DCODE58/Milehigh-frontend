@@ -12,7 +12,7 @@ const CONFIG = {
       products: [
         { id: 'foreign-1',  name: 'Foreign',  qty: 1,  price: 100, tag: 'Single',      hasQty: true  },
         { id: 'foreign-5',  name: 'Foreign',  qty: 5,  price: 400, tag: 'Pack of 5',   hasQty: false },
-        { id: 'foreign-10', name: 'Foreign',  qty: 10, price: 900, tag: 'Pack of 10',  hasQty: true },
+        { id: 'foreign-10', name: 'Foreign',  qty: 10, price: 900, tag: 'Pack of 10',  hasQty: false },
       ],
     },
     {
